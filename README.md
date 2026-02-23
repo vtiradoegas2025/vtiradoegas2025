@@ -10,5 +10,5 @@ Cloud & DevOps — AWS (ECS, S3), Docker, Terraform, Linux
 ML & Data — TensorFlow/Keras, XAI, spatiotemporal modeling, Python, R
 Systems — C++17, NEXRAD radar parsing, C++ extensions for Python
 
-🌱 Currently working on open-source storm modeling and visualization tooling.
+Currently working on an open-source storm modeling and visualization tooling.
 
