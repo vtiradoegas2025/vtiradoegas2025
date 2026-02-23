@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**vtiradoegas2025/vtiradoegas2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Contract Software Engineer at Disaster Imaging Inc., building production data systems for real-time analytics and geospatial decision-making. Completing my M.Sc. in Data Science & Analytics at the University of Oklahoma (May 2026).
 My work sits at the intersection of full-stack development, geospatial systems, and applied ML.
 
